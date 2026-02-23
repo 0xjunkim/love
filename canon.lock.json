@@ -1,0 +1,10 @@
+{
+  "schema_version": "canon.lock.v2",
+  "canon_commit": "5f5078a7dff39dc403f433c01ccb82009c6d8373",
+  "worldbuilding_hash": "",
+  "hash_algo": "sha256",
+  "generated_at": "2026-02-23T23:35:00.568Z",
+  "contributors": [
+    "0xjunkim"
+  ]
+}
