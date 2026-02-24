@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.2",
+  "canon_ref": "be9afba68ba8d483ea8a7dd2c05052791ce7413f",
+  "id": "ep01",
+  "episode": 1,
+  "title": {
+    "ko": "첫 만남",
+    "en": "First Encounter"
+  },
+  "timeline": "2025-03-15",
+  "synopsis": {
+    "ko": "june이 서울에서 처음 만남을 경험한다.",
+    "en": "june experiences a first encounter in seoul."
+  },
+  "characters": ["june"],
+  "locations": ["seoul"],
+  "contributor": "0xjunkim",
+  "canon_status": "canonical"
+}

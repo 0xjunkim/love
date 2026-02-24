@@ -1,9 +1,9 @@
 {
   "schema_version": "canon.lock.v2",
-  "canon_commit": "5f5078a7dff39dc403f433c01ccb82009c6d8373",
-  "worldbuilding_hash": "",
+  "canon_commit": "be9afba68ba8d483ea8a7dd2c05052791ce7413f",
+  "worldbuilding_hash": "ce966d8543b25bae76d68019b4c864960ce58d13f261744d561399c4ad7d9946",
   "hash_algo": "sha256",
-  "generated_at": "2026-02-23T23:35:00.568Z",
+  "generated_at": "2026-02-24T05:07:46.211Z",
   "contributors": [
     "0xjunkim"
   ]
