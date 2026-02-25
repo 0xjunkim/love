@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.2",
+  "canon_ref": "0xjunkim/love",
+  "id": "love",
+  "episode": 0,
+  "title": {
+    "ko": "점심시간",
+    "en": "lunch"
+  },
+  "timeline": "2026",
+  "synopsis": {
+    "ko": "배고픈 나는 밤새고 출근한다",
+    "en": "hungry"
+  },
+  "characters": [
+    "Jun Kim"
+  ],
+  "locations": [
+    "Seoul"
+  ],
+  "contributor": "0xjunkim",
+  "canon_status": "canonical"
+}
